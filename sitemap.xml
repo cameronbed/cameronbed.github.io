@@ -2,47 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/cameronbed.github.io/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/cameronbed.github.io/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/cameronbed.github.io/blog/thirdpost/</loc>
-		<lastmod>2018-08-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/cameronbed.github.io/blog/fourthpost/</loc>
-		<lastmod>2018-09-30</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/cameronbed.github.io/about/</loc>
+		<loc>https://http/cameronbed.github.io/blog/</loc>
 		<lastmod>2025-06-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/cameronbed.github.io/blog/</loc>
+		<loc>https://http/cameronbed.github.io/</loc>
 		<lastmod>2025-06-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/cameronbed.github.io/</loc>
+		<loc>https://http/cameronbed.github.io/portfolio/</loc>
 		<lastmod>2025-06-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/cameronbed.github.io/tags/</loc>
+		<loc>https://http/cameronbed.github.io/resume/</loc>
 		<lastmod>2025-06-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/cameronbed.github.io/feed/feed.xml</loc>
+		<loc>https://http/cameronbed.github.io/tags/</loc>
+		<lastmod>2025-06-28</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://http/cameronbed.github.io/feed/feed.xml</loc>
 		<lastmod>2025-06-28</lastmod>
 	</url>
 </urlset>
