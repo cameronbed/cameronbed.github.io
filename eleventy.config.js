@@ -61,10 +61,6 @@ export default async function (eleventyConfig) {
 		outputPath: "/feed/feed.xml",
 		stylesheet: "pretty-atom-feed.xsl",
 		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 4
-			}
 		},
 		collection: {
 			name: "posts",
@@ -72,11 +68,11 @@ export default async function (eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "Cameron Bedard",
+			subtitle: "Personal website made with 11ty",
+			base: "https://cameronbed.com/",
 			author: {
-				name: "Your Name"
+				name: "Cameron"
 			}
 		}
 	});
